@@ -1,2 +1,2 @@
 # Rhian Lopes
-Sou estudante de técnico em inforática no IFSul campus Sapucaia do Sul, RS - Brasil. Participo de competições de programação e matemática.
+Sou estudante de técnico em inforática no IFSul campus Sapucaia do Sul, RS - Brasil. Participo de competições de programação e matemática. Minhas principais linguagens de programacão são java e python, tenho experiência em AndroidStudio e SQL. Sou medalhista de Bronze da OBMEP.
