@@ -16,7 +16,7 @@ public class Main {
 				}
 			}
 			if (c == 1) {
-				System.out.println("Prime");
+				System.out.println("Prim0");
 			} else if (c == 0) {
 				System.out.println("Not Prime");
 			}
